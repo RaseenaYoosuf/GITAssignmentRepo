@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21_WCF Assign1_Task1_Host\bin\Debug\21_WCF Assign1_Task1_Host.exe.config
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21_WCF Assign1_Task1_Host\bin\Debug\21_WCF Assign1_Task1_Host.exe
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21_WCF Assign1_Task1_Host\bin\Debug\21_WCF Assign1_Task1_Host.pdb
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21_WCF Assign1_Task1_Host\bin\Debug\21_WCF Assignment1_Task1New.dll
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21_WCF Assign1_Task1_Host\bin\Debug\21_WCF Assignment1_Task1New.pdb
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21_WCF Assign1_Task1_Host\bin\Debug\21_WCF Assignment1_Task1New.dll.config
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21_WCF Assign1_Task1_Host\obj\Debug\21_WCF Assign1_Task1_Host.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21_WCF Assign1_Task1_Host\obj\Debug\21_WCF Assign1_Task1_Host.exe
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21_WCF Assign1_Task1_Host\obj\Debug\21_WCF Assign1_Task1_Host.pdb

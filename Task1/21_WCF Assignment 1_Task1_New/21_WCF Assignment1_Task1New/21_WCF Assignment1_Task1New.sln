@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_WCF Assignment1_Task1New", "21_WCF Assignment1_Task1New\21_WCF Assignment1_Task1New.csproj", "{688293CD-A305-4B96-A1FE-8254A1A2DD2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_WCF Assign1_Task1_Host", "21_WCF Assign1_Task1_Host\21_WCF Assign1_Task1_Host.csproj", "{64C4FDDA-A778-4E05-9A98-356AA1A961CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{688293CD-A305-4B96-A1FE-8254A1A2DD2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688293CD-A305-4B96-A1FE-8254A1A2DD2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688293CD-A305-4B96-A1FE-8254A1A2DD2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688293CD-A305-4B96-A1FE-8254A1A2DD2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C4FDDA-A778-4E05-9A98-356AA1A961CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C4FDDA-A778-4E05-9A98-356AA1A961CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C4FDDA-A778-4E05-9A98-356AA1A961CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C4FDDA-A778-4E05-9A98-356AA1A961CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="JobPortal" />
+  <setParameter name="masterEntities-Web.config Connection String" value="metadata=res://*/JobOpening.csdl|res://*/JobOpening.ssdl|res://*/JobOpening.msl;provider=System.Data.SqlClient;provider connection string=&quot;Data Source=DOTNET;Initial Catalog=master;Integrated Security=True&quot;" />
+</parameters>

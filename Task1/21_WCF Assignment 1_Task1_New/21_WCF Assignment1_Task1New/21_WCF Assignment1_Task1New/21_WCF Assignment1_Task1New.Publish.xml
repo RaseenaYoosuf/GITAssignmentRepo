@@ -1,0 +1,9 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost:8088/">
+    <file relUrl="bin/21_WCF Assignment1_Task1New.dll" publishTime="11/20/2018 18:20:21" />
+    <file relUrl="_21_WCF_Assignment1_Task1New.Service1.svc" publishTime="11/20/2018 18:21:02" />
+    <file relUrl="bin/21_WCF Assignment1_Task1New.dll.config" publishTime="09/25/2018 18:28:28" />
+    <file relUrl="Web.config" publishTime="09/25/2018 18:28:28" />
+    <file relUrl="bin/21_WCF Assignment1_Task1New.pdb" publishTime="11/20/2018 18:20:21" />
+  </publishTarget>
+</publishData>

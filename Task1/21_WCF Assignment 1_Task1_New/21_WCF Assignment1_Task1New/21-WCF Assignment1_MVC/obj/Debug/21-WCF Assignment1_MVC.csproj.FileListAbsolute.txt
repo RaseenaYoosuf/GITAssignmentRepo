@@ -1,0 +1,32 @@
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\21-WCF Assignment1_MVC.dll.config
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\21-WCF Assignment1_MVC.dll
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\21-WCF Assignment1_MVC.pdb
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\WebGrease.dll
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\obj\Debug\21-WCF Assignment1_MVC.dll
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\obj\Debug\21-WCF Assignment1_MVC.pdb
+C:\Users\Admin\Desktop\Assignments\21 - WCF Assignment 1\Task1\21_WCF Assignment 1_Task1_New\21_WCF Assignment1_Task1New\21-WCF Assignment1_MVC\obj\Debug\21-WCF Assignment1_MVC.csprojResolveAssemblyReference.cache

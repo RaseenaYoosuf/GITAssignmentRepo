@@ -1,0 +1,38 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>WCF Service Multiple Bindings Usage</h2>
+                   
+            <table>
+                <tr>
+                    <td>
+                        <input type="button" value="Button For TCP" id="idbtnTCP" onclick="location.href='@Url.Action("Index", "Home",new { btnclickVal = "TCPButton" } ) ' " />
+                    </td>
+                    <td>
+                        <input type="button" value="Button For HTTP" id="idbtnHTTP" onclick="location.href='@Url.Action("Index", "Home",new { btnclickVal = "HTTPButton" }) ' " />
+                    </td>                  
+                </tr>
+                <tr>
+                   
+                    </tr>
+                    <tr>                   
+                        <td>
+                        @Html.TextBox("idtxthello", (string)ViewBag.HelloMsg);
+                    </td>
+                        <td>
+                            @Html.TextBox("idtxtprogrammsg", (string)ViewBag.ProgramMsg);
+                        </td>
+                </tr>
+            </table>
+            
+           
+      
+       
+    </div>
+    
+</div>
